@@ -1,11 +1,11 @@
 # Nike-Financial-Modeling
-Introduction:
-Nike Inc., a global powerhouse in athletic footwear, apparel, and accessories, relies on sophisticated financial modeling to bolster strategic decision-making processes. This case study delves into Nike's utilization of financial modeling to not only project financial performance but also to construct its three primary financial statements: the income statement, balance sheet, and cash flow statement.
+### Introduction:
+ Nike Inc., a global powerhouse in athletic footwear, apparel, and accessories, relies on sophisticated financial modeling to bolster strategic decision-making processes. This case study delves into Nike's utilization of financial modeling to not only project financial performance but also to construct its three primary financial statements: the income statement, balance sheet, and cash flow statement.
 
-Company Background:
+### Company Background:
 Established in 1964, Nike has cemented its status as an industry leader, catering to athletes and enthusiasts worldwide. With a diverse product portfolio, innovative marketing strategies, and a strong brand presence, Nike continues to thrive despite the challenges posed by an ever-evolving market landscape.
 
-Challenges:
+### Challenges:
 Nike faces multifaceted challenges that necessitate robust financial modeling:
 
 Market Volatility: Fluctuations in consumer preferences, economic conditions, and geopolitical factors influence Nike's revenue streams and profitability.
@@ -15,17 +15,17 @@ Strategic Investments: Allocating capital efficiently across research and develo
 Solution:
 Nike employs financial modeling to address these challenges comprehensively:
 
-Income Statement Projection:
+### Income Statement Projection:
 
 Nike projects its future revenues and expenses using historical performance data, market research, and macroeconomic indicators.
 Sales forecasts are refined by product category, geographic region, distribution channel, and customer segment to provide granular insights.
 Expense projections encompass various cost components, including manufacturing, marketing, distribution, and administrative expenses, factoring in expected changes and cost-saving initiatives.
-Balance Sheet Modeling:
+### Balance Sheet Modeling:
 
 Nike constructs its balance sheet by projecting assets, liabilities, and shareholders' equity based on assumptions derived from operational forecasts and strategic plans.
 Asset projections include cash, inventory, property, plant, and equipment, while liabilities encompass accounts payable, accrued expenses, and long-term debt.
 Shareholders' equity projections reflect changes in retained earnings, additional paid-in capital, and treasury stock, incorporating anticipated capital transactions and dividend distributions.
-Cash Flow Statement Analysis:
+### Cash Flow Statement Analysis:
 
 Nike prepares its cash flow statement by integrating projections of operating, investing, and financing activities.
 Operating cash flows are derived from changes in net income, working capital, and non-cash expenses, adjusted for changes in operating assets and liabilities.
